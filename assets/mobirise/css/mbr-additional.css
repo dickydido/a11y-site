@@ -150,7 +150,7 @@ body {
 .btn-primary,
 .btn-primary:active {
   background-color: #A7203B !important;
-  border-color: #ff7f9f !important;
+  border-color: #A7203B !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -170,7 +170,7 @@ body {
 .btn-secondary,
 .btn-secondary:active {
   background-color: #A7203B !important;
-  border-color: #ff7f9f !important;
+  border-color: #A7203B !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -322,13 +322,13 @@ body {
 .btn-primary-outline.active {
   color: #ffffff;
   background-color: #A7203B;
-  border-color: #ff7f9f;
+  border-color: #A7203B;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
   background-color: #A7203B !important;
-  border-color: #ff7f9f !important;
+  border-color: #A7203B !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -342,13 +342,13 @@ body {
 .btn-secondary-outline.active {
   color: #ffffff;
   background-color: #A7203B;
-  border-color: #ff7f9f;
+  border-color: #A7203B;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
   background-color: #A7203B !important;
-  border-color: #ff7f9f !important;
+  border-color: #A7203B !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -465,10 +465,10 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #ff7f9f !important;
+  color: #A7203B !important;
 }
 .text-secondary {
-  color: #ff7f9f !important;
+  color: #A7203B !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -538,7 +538,7 @@ a.text-black:focus {
 }
 .mbr-gallery-filter li.active .btn {
   background-color: #A7203B;
-  border-color: #ff7f9f;
+  border-color: #A7203B;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -552,7 +552,7 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #ff7f9f;
+  color: #A7203B;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -673,7 +673,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #ff7f9f;
+  border-color: #A7203B;
   border-width: 3px;
 }
 ul,
@@ -723,7 +723,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #ff7f9f;
+  border-color: #A7203B;
   color: #232323;
   cursor: pointer;
 }
@@ -746,7 +746,7 @@ pre {
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #ff7f9f;
+  color: #A7203B;
 }
 /* Headers*/
 .offset-1 {
